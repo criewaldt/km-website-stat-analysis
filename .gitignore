@@ -1,3 +1,8 @@
+#config
+config/
+#dont include KM project data
+input/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
